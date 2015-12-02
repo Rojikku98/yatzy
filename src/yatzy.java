@@ -15,6 +15,7 @@ public class yatzy {
             t[i]= random.nextInt(5)+1;
             System.out.println(t[i]);
         }
+        for (i = 0 ;i < 3 ; i++){
         System.out.println("Villka vill du så om? x_x_x...");
         sr = in.nextLine();
         for (i = 0; i<= 10; i+=2 ){
@@ -25,6 +26,8 @@ public class yatzy {
             }
             t[r] = random.nextInt(5)+1;
         }
+        }
+
         for (i = 4 ; i <= 0; i++){
             for ( j = 0; j<i; j++ ){
                 if (t[i]<t[i+1]){

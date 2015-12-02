@@ -25,8 +25,8 @@
       <file leaf-file-name="yatzy.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/yatzy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7937743">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.6614786">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,8 +59,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-16" />
-    <option name="y" value="479" />
+    <option name="x" value="27" />
+    <option name="y" value="370" />
     <option name="width" value="1260" />
     <option name="height" value="944" />
   </component>
@@ -309,7 +309,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="479" width="1260" height="944" extended-state="0" />
+    <frame x="27" y="370" width="1260" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -351,8 +351,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/yatzy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7937743">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.6614786">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
